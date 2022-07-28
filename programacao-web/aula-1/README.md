@@ -1,4 +1,4 @@
-<img src="./img/unidep.png">
+<img src="./../../img/unidep.png">
 
 ---
 
@@ -24,3 +24,9 @@
 - Estilizar imagem.
 - Introduzir desenvolvimento com JavaScript.
 - Implementar variáveis, operadores, arrays e realizar validações.
+
+---
+
+#### Conhecendo a Turma
+
+<img src="./img/qrcode.png" style="width: 50%">
