@@ -1,5 +1,3 @@
-# UNIDEP
-
-Aulas para curso de ADS UNIDEP
+# Aulas UNIDEP ADS
 
 [Link das aulas](https://emalherbi.github.io/aulas/)
