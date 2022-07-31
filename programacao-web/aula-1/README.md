@@ -1,9 +1,3 @@
-<img src="./../../img/unidep.png">
-
----
-
-#### Tecnologia em Análise e Desenvolvimento de Sistemas
-
 ## AULA 1
 
 <br>
@@ -13,37 +7,11 @@
 
 ---
 
-#### Apresentação do professor
-
-Olá! Sou Eduardo Malherbi Martins, desenvolvedor de software a mais de 14 anos com foco no desenvolvimento WEB. Atualmente trabalho na XPert como Coordenador Web e Scrum Master da equipe de desenvolvimento web.
+## [Sobre o professor](../sobre-professor/)
 
 ---
 
-#### Conhecimentos
-
-- WEB development: Docker. HTML. XHTML. CSS. CSS3. SASS. LESS. JavaScript. JQuery. AngularJS. Angular. Bootstrap. PureCSS. Flash Builder 4. PHP. ZEND. Wordpress. Grav. Java. NodeJS. NestJS. TypeORM.
-- Desktop development: Object Pascal (Delphi7, Delphi2007, Delphi2010). Visual Basic. Java.
-- Mobile development: Ionic. PhoneGap. Android (Java). JQueryMobile.
-
----
-
-#### Conhecimentos
-
-- Servers: Azure (Microsoft). AWS (Amazon). Apache. Nginx.
-- Creating Reports: FPDF. DOMPDF. FastReport. QuickReport.
-- Electronic Tax Invoice: NFePHP.
-
----
-
-#### Conhecimentos
-
-- Mainframe programming: COBOL (Bath, IMS e Stored Procedures), Micro Focus MainFrame (MFE).
-- SGBD: Sql Server 2000, 2005, 2008, 2012. DB2. MySql. MongoDB.
-- Creating Test Cases and Test Software: MERCURY QUALITY CENTER. HexaVison (HSBC).
-
----
-
-## Ementa
+#### Ementa
 
 - Criação de páginas Web.
 - Estruturar páginas em HTML5.
@@ -60,6 +28,33 @@ Olá! Sou Eduardo Malherbi Martins, desenvolvedor de software a mais de 14 anos 
 #### Conhecendo a Turma
 
 <img src="./img/qrcode.png" style="width: 50%">
+
+---
+
+## [A História da Internet](../historia-internet/)
+
+---
+
+## Primeiro projeto
+
+---
+
+#### Site Pessoal
+
+<img src="./img/meu-site-pessoal.png" width="80%">
+
+---
+
+## Assuntos abordados em aula
+
+- Servidores
+- Gerenciador de pacotes
+- Introdução ao HTML, CSS, Javascript
+- Aula prática
+
+---
+
+## Servidores
 
 ---
 
@@ -103,7 +98,7 @@ Segundo a organização Apache.ORG o servidor Apache é um dos servidores mais p
 
 ---
 
-#### Node.js
+#### Node.js / NPM
 
 - O Node.js pode ser definido como um ambiente de execução Javascript server-side.
 - O npm é o **gerenciador de pacotes** do Node (Node Package Manager) que vem junto com ele e que é muito útil no desenvolvimento Node.
@@ -170,17 +165,59 @@ npm install -g yo
 
 ---
 
-## Iniciando o projeto
+#### HTML
+
+- O HTML é uma linguagem de marcação. (Lembra o XML).
+  - Estas linguagens são constituídas de códigos que delimitam conteúdos específicos, segundo uma sintaxe própria.
+  - Estes códigos que definem o tipo de letra, qual o tamanho, cor, espaçamento e vários outros aspectos do site.
 
 ---
 
-#### Generator Play Ideia
+#### HTML - Estrutura básica
 
-[Instalação](https://www.npmjs.com/package/generator-play-ideia)
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Título da página</title>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    Aqui vai o código HTML que fará seu site aparecer.
+  </body>
+</html>
+```
 
+---
+
+### HTML
+
+```html
+<!DOCTYPE html>
 ```
-yo play-ideia
-```
+
+- Importante: SEMPRE deve existir o doctype, que é este código.
+- O doctype é uma instrução para o navegador que o código encontrado ali é um código HTML.
+
+---
+
+#### CSS
+
+- CSS (Planilhas de estilo em cascata) é usada para estilizar e arranjar páginas web.
+- Exemplo: alterar a fonte, cor, tamanho e espaçamento do seu conteúdo, separá-lo em multiplas colunas, ou então adicionar animações e outras implementações decorativas.
+
+[CSS Animations](https://codepen.io/ajerez/pen/EaEEOW/)
+
+---
+
+#### Javascript
+
+- JavaScript é uma linguagem de programação que permite a você implementar itens complexos em páginas web;
+- Toda vez que uma página da web faz mais do que simplesmente mostrar a você informação estática — mostrando conteúdo que se atualiza em um intervalo de tempo, mapas interativos ou gráficos 2D/3D animados, etc;
+
+---
+
+## Aula prática
 
 ---
 
@@ -193,3 +230,6 @@ yo play-ideia
 - [Yarn](https://classic.yarnpkg.com/en/)
 - [Bower.io](https://bower.io/)
 - [Yeoman](https://yeoman.io/)
+- [HTML Introdução](https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML)
+- [Primeiros passos com CSS](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/First_steps)
+- [Primeiros passos com JavaScript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps)
