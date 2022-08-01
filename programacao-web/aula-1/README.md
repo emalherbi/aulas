@@ -7,7 +7,7 @@
 
 ---
 
-## [Sobre o professor](../sobre-professor/)
+## [Sobre o professor](../../sobre-professor/)
 
 ---
 

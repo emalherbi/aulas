@@ -2,9 +2,19 @@
 
 Olá! Sou Eduardo Malherbi Martins;
 
+<br>
+
 - Desenvolvedor de software a mais de 14 anos com foco no desenvolvimento WEB.
-- Coordenador Web na XPert;
-- Scrum Master na XPert;
+- Coordenador Web e Scrum Master na XPert;
+
+---
+
+#### Contato
+
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/emalherbi)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/emalherbi)
+[![AAAAA](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emalherbi@gmail.com)
+[![AAAAA](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emalherbi)
 
 ---
 
@@ -29,5 +39,3 @@ Olá! Sou Eduardo Malherbi Martins;
 - Mainframe programming: COBOL (Bath, IMS e Stored Procedures), Micro Focus MainFrame (MFE).
 - SGBD: Sql Server 2000, 2005, 2008, 2012. DB2. MySql. MongoDB.
 - Creating Test Cases and Test Software: MERCURY QUALITY CENTER. HexaVison (HSBC).
-
-#### [VOLTAR](../)
