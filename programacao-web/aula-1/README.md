@@ -7,10 +7,6 @@
 
 ---
 
-## [Sobre o professor](../../sobre-professor/)
-
----
-
 #### Ementa
 
 - Criação de páginas Web.
