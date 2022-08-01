@@ -1,10 +1,10 @@
 #### Sobre o professor
 
-Olá! Sou Eduardo Malherbi Martins;
+Olá! Sou Eduardo Malherbi Martins.
 
 <br>
 
-- Desenvolvedor de software a mais de 14 anos com foco no desenvolvimento WEB.
+- Desenvolvedor de software a mais de 14 anos com foco no desenvolvimento WEB;
 - Coordenador Web e Scrum Master na XPert;
 
 ---
