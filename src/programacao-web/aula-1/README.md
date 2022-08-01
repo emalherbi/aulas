@@ -60,25 +60,28 @@
 
 #### Servidor Apache
 
-Criado em 1995 por Rob McCool, na época funcionário da NCSA (National Center for Supercomputing Applications), o Servidor HTTP Apache é o mais bem sucedido servidor web livre que existe. Trata-se de um servidor web muito popular, utilizado principalmente no Linux.
+- Criado em 1995 por Rob McCool, na época funcionário da NCSA (National Center for Supercomputing Applications);
+- Servidor HTTP Apache é o mais bem sucedido servidor web livre que existe.
+- Utilizado principalmente no Linux.
 
 ---
 
 #### Servidor Apache
 
-Assim como qualquer servidor do tipo, o Apache é responsável por disponibilizar páginas e todos os recursos que podem ser acessados pelo internauta. Envio de e-mails, mensagens, compras online e diversas outras funções.
+- Assim como qualquer servidor do tipo, o Apache é responsável por disponibilizar páginas e todos os recursos que podem ser acessados pelo internauta.
+- Envio de e-mails, mensagens, compras online e diversas outras funções.
 
 ---
 
 #### Servidor Apache
 
-Vale destacar no Apache é que, ele é distribuído sob a licença GNU, ou seja, é gratuito e pode ser estudado e modificado através de seu código fonte por qualquer pessoa.
+- O Apache é distribuído sob a licença GNU, ou seja, é gratuito e pode ser estudado e modificado através de seu código fonte por qualquer pessoa.
 
 ---
 
 #### Servidor Apache
 
-Segundo a organização Apache.ORG o servidor Apache é um dos servidores mais populares da atualidade com 65% dos sites no mundo.
+- Segundo a organização Apache.ORG o servidor Apache é um dos servidores mais populares da atualidade com 65% dos sites no mundo.
 
 ---
 
@@ -103,8 +106,6 @@ Segundo a organização Apache.ORG o servidor Apache é um dos servidores mais p
 - O Node.js pode ser definido como um ambiente de execução Javascript server-side.
 - O npm é o **gerenciador de pacotes** do Node (Node Package Manager) que vem junto com ele e que é muito útil no desenvolvimento Node.
 
-> Será abordado o tema mais a fundo em uma próxima aula.
-
 ---
 
 #### Node.js
@@ -116,8 +117,6 @@ Segundo a organização Apache.ORG o servidor Apache é um dos servidores mais p
 #### Yarn
 
 O Yarn é um **gerenciador de pacotes** que trouxe mais funcionalidades e vantagens para programadores.
-
-> Será abordado o tema mais a fundo em uma próxima aula.
 
 ---
 
@@ -196,7 +195,7 @@ npm install -g yo
 <!DOCTYPE html>
 ```
 
-- Importante: SEMPRE deve existir o doctype, que é este código.
+- Importante: SEMPRE deve existir o doctype.
 - O doctype é uma instrução para o navegador que o código encontrado ali é um código HTML.
 
 ---
