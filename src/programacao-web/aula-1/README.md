@@ -25,9 +25,15 @@
 
 ---
 
+#### MIRC
+
+<img src="./img/qrcode-mirc.png" style="width: 50%">
+
+---
+
 #### Conhecendo a Turma
 
-<img src="./img/qrcode.png" style="width: 50%">
+<img src="./img/qrcode-conhecendo-turma.png" style="width: 50%">
 
 ---
 
