@@ -42,5 +42,3 @@
 
 - [O que significa WWW?](https://canaltech.com.br/produtos/o-que-significa-www/)
 - [Primeiro Site da História](http://info.cern.ch/hypertext/WWW/TheProject.html)
-
-#### [VOLTAR](../)
