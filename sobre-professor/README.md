@@ -18,6 +18,24 @@ Olá! Sou Eduardo Malherbi Martins.
 
 ---
 
+#### APPS
+
+<img src="./img/app-cacciattori.png" style="width: 50%">
+
+---
+
+#### APPS
+
+<img src="./img/app-ipay.png" style="width: 50%">
+
+---
+
+#### APPS
+
+<img src="./img/app-xpertmobile.png" style="width: 50%">
+
+---
+
 #### Conhecimentos
 
 - WEB development: Docker. HTML. XHTML. CSS. CSS3. SASS. LESS. JavaScript. JQuery. AngularJS. Angular. Bootstrap. PureCSS. Flash Builder 4. PHP. ZEND. Wordpress. Grav. Java. NodeJS. NestJS. TypeORM.
