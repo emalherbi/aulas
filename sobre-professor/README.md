@@ -18,19 +18,19 @@ Olá! Sou Eduardo Malherbi Martins.
 
 ---
 
-#### APPS
+#### Projetos
 
 <img src="./img/app-cacciattori.png" style="width: 50%">
 
 ---
 
-#### APPS
+#### Projetos
 
 <img src="./img/app-ipay.png" style="width: 50%">
 
 ---
 
-#### APPS
+#### Projetos
 
 <img src="./img/app-xpertmobile.png" style="width: 50%">
 

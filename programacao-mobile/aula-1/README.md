@@ -7,10 +7,6 @@
 
 ---
 
-## [Sobre o professor](../../sobre-professor/)
-
----
-
 #### Ementa
 
 - TODO
@@ -58,5 +54,5 @@ npm install --global yarn
 
 #### Referências
 
-- [Node.js](https://nodejs.org/en/)
+- [Node.js](https://nodejs.org/pt-br/about/)
 - [Yarn](https://classic.yarnpkg.com/en/)
