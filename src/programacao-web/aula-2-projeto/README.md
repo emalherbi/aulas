@@ -10,8 +10,8 @@
 
 #### Pergunta a TURMA
 
-- Quem trabalha com empresa que faz site?
-- Quem trabalha com empresa que faz sistema?
+- Quem trabalha em empresa que faz site?
+- Quem trabalha em empresa que faz sistema?
 
 ---
 
