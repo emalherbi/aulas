@@ -38,7 +38,7 @@ Olá! Sou Eduardo Malherbi Martins.
 
 #### Conhecimentos
 
-- WEB development: Docker. HTML. XHTML. CSS. CSS3. SASS. LESS. JavaScript. JQuery. AngularJS. Angular. Bootstrap. PureCSS. Flash Builder 4. PHP. ZEND. Wordpress. Grav. Java. NodeJS. NestJS. TypeORM.
+- WEB development: HTML. XHTML. CSS. CSS3. SASS. LESS. JavaScript. JQuery. AngularJS. Angular. Bootstrap. PureCSS. Flash Builder 4. PHP. ZEND. Wordpress. Grav. Java. NodeJS. NestJS. TypeORM.
 - Desktop development: Object Pascal (Delphi7, Delphi2007, Delphi2010). Visual Basic. Java.
 
 ---
@@ -46,9 +46,8 @@ Olá! Sou Eduardo Malherbi Martins.
 #### Conhecimentos
 
 - Mobile development: Ionic. PhoneGap. Android (Java). JQueryMobile.
-- Servers: Azure (Microsoft). AWS (Amazon). Apache. Nginx.
+- Servers: Azure (Microsoft). AWS (Amazon). Apache. Nginx. Docker.
 - Creating Reports: FPDF. DOMPDF. FastReport. QuickReport.
-- Electronic Tax Invoice: NFePHP.
 
 ---
 
