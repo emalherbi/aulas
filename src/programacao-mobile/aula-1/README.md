@@ -2,7 +2,7 @@
 
 <br>
 
-- Disciplina: Programação Web
+- Disciplina: Programação Dispositivos Móveis
 - Professor: Eduardo Malherbi Martins
 
 ---
