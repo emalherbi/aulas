@@ -4,10 +4,11 @@
 
 #### Pergunta a TURMA
 
-- O que é o HTML.
-  - Linguagem de programação?
-  - Linguagem de marcação?
-  - Linguagem de programação e marcação?
+- O que é o HTML?
+  - Linguagem de programação.
+  - Linguagem de marcação.
+  - Linguagem de programação e marcação.
+  - Nenhuma das opções.
 
 ---
 
@@ -95,10 +96,12 @@ Salvar: `index.html` e abrir no navegador.
 
 ```html
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
   <head>
-    <title>Título da página</title>
     <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Título da página</title>
   </head>
   <body>
     <p>Meu fusca é azul.</p>
