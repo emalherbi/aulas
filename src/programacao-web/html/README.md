@@ -2,26 +2,82 @@
 
 ---
 
-#### HTML
+#### Pergunta a TURMA
 
-- O HTML é uma linguagem de marcação (Lembra o XML) utilizada para dizer ao seu navegador como estruturar a página web que você visita.
-
-```html
-<p>Meu fusca é TOP.</p>
-```
+- O que é o HTML.
+  - Linguagem de programação?
+  - Linguagem de marcação?
+  - Linguagem de programação e marcação?
 
 ---
 
-#### HTML - Anatomia de um elemento HTML
+#### HTML
+
+- O HTML é uma linguagem de marcação (Lembra o XML) utilizada para dizer ao seu navegador como **estruturar** a página web.
+- Não é considerado linguagem de programação pois não pode-se fazer **if/else**, **loops** ou **funções**.
+
+---
+
+#### O que forma a estrutura do HTML?
+
+- Elementos que são parecidos com do **WORD**, exemplo:
+  - Títulos;
+  - Parágrafos;
+  - Listas;
+  - Tabelas;
+  - Imagens;
+
+---
+
+#### HTML
+
+- Como executar um HTML? Exemplo:
 
 ```html
-<p>Meu fusca é TOP.</p>
+<p>Meu fusca é azul.</p>
 ```
 
-1. Tag de abertura.
-2. Tag de fechamento.
-3. O conteúdo.
-4. O elemento: A tag de abertura, mais a tag de fechamento, mais o conteúdo, é igual ao elemento.
+Salvar: `index.html` e abrir no navegador.
+
+---
+
+#### Anatomia de um elemento HTML
+
+```html
+<p>Meu fusca é azul.</p>
+```
+
+- Tag de abertura.
+- Tag de fechamento.
+- O conteúdo.
+- O elemento:
+  - A **tag de abertura**, mais a **tag de fechamento**, mais o **conteúdo**, é igual ao **elemento**.
+
+---
+
+#### Atributos do HTML
+
+```html
+<a href="https://www.google.com/" target="_blank">Google</a>
+```
+
+- Atributos são **opções** do HTML para configurar as **tags**.
+- **href** e **target** são atributos da tag **`<a>`**;
+
+Salvar: `index.html` e abrir no navegador.
+
+---
+
+#### Nesting - Encadeamento
+
+```html
+<div>
+  <h1>Título</h1>
+  <p>Parágrafo do texto.</p>
+</div>
+```
+
+Salvar: `index.html` e abrir no navegador.
 
 ---
 
@@ -35,7 +91,7 @@
     <meta charset="utf-8" />
   </head>
   <body>
-    <p>Aqui vai o código HTML que fará seu site aparecer.</p>
+    <p>Meu fusca é azul.</p>
   </body>
 </html>
 ```
@@ -62,3 +118,4 @@
 #### Referências
 
 - [HTML Introdução](https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML)
+- [X-UA-Compatible](https://pt.stackoverflow.com/questions/209593/qual-%C3%A9-a-fun%C3%A7%C3%A3o-da-meta-tag-x-ua-compatible-dentro-do-html)

@@ -2,7 +2,7 @@
 
 Olá! Sou Eduardo Malherbi Martins.
 
-<br>
+<br />
 
 - Desenvolvedor de software a mais de 14 anos com foco no desenvolvimento WEB;
 - Coordenador Web e Scrum Master na XPert;
