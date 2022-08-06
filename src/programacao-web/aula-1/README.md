@@ -1,6 +1,6 @@
 ## AULA 1
 
-<br>
+<br />
 
 - Disciplina: Programação Web
 - Professor: Eduardo Malherbi Martins

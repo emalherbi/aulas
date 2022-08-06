@@ -1,6 +1,6 @@
 ## AULA 1
 
-<br>
+<br />
 
 - Disciplina: Programação Dispositivos Móveis
 - Professor: Eduardo Malherbi Martins
@@ -141,12 +141,12 @@ npm install express
 - Salvar: `app.js`
 
 ```js
-const express = require("express");
+const express = require('express');
 const app = express();
 const port = 6000;
 
-app.get("/", (req, res) => {
-  res.send("Hello World!");
+app.get('/', (req, res) => {
+  res.send('Hello World!');
 });
 
 app.listen(port, () => {
