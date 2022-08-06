@@ -121,6 +121,28 @@ Salvar: `index.html` e abrir no navegador.
 
 ---
 
+### HTML semântico
+
+- O HTML semântico tem como objetivo descrever o significado do conteúdo presente em documentos HTML, tornando-o mais claro tanto para **programadores** quanto para **browsers** e outras engines que processam essa informação.
+
+---
+
+### HTML semântico
+
+- Exemplos:
+
+```
+<header>
+<main>
+<section>
+<article>
+<nav>
+<aside>
+<footer>
+```
+
+---
+
 ## Aula prática
 
 ---
