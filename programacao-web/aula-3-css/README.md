@@ -2,12 +2,22 @@
 
 ---
 
+#### Pergunta a TURMA
+
+- O que é o CSS?
+  - Linguagem de programação.
+  - Linguagem de marcação.
+  - Linguagem de programação e marcação.
+  - Nenhuma das opções.
+
+---
+
 #### CSS
 
-- CSS (planilhas de estilo em cascata) é usada para estilizar e arranjar páginas web.
+- CSS não é uma linguagem de programação.
+- CSS não é uma linguagem de marcação.
+- CSS é uma linguagem de folhas de estilos.
 - Exemplo: alterar a fonte, cor, tamanho, etc.
-
-[CSS Animations](https://codepen.io/ajerez/pen/EaEEOW/)
 
 ---
 
@@ -15,13 +25,15 @@
 
 ```html
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
   <head>
-    <title>Título da página</title>
     <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Título da página</title>
     <style>
       body {
-        background-color: red;
+        background-color: #009dff;
       }
     </style>
   </head>
@@ -32,6 +44,61 @@
 ```
 
 - Salvar: `index.html`
+
+---
+
+#### CSS
+
+```css
+p {
+  color: #000280;
+  font-size: 40px;
+  border: 1px solid black;
+  width: 500px;
+  text-align: center;
+  padding: 10px;
+}
+```
+
+---
+
+#### CSS - Selecionando múltiplos elementos
+
+```css
+h1,
+p {
+  text-align: center;
+}
+```
+
+Salvar: `introducao-3.html`
+
+---
+
+#### CSS - Diferentes tipos de seletores
+
+| Nome do seletor | Exemplo              |
+| --------------- | -------------------- |
+| Elemento        | `<p>`                |
+| ID              | `#my-id`             |
+| Classe          | `.my-class`          |
+| Atributo        | `input[type="text"]` |
+| Pseudo-classe   | `a:hover`            |
+
+Salvar: `introducao-4.html`
+
+---
+
+#### CSS - Fontes e texto
+
+- Google Fonts
+- [https://fonts.google.com/](https://fonts.google.com/)
+
+Salvar: `introducao-5.html`
+
+---
+
+[CSS Animations](https://codepen.io/ajerez/pen/EaEEOW/)
 
 ---
 

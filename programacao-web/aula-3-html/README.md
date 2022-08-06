@@ -4,10 +4,11 @@
 
 #### Pergunta a TURMA
 
-- O que é o HTML.
-  - Linguagem de programação?
-  - Linguagem de marcação?
-  - Linguagem de programação e marcação?
+- O que é o HTML?
+  - Linguagem de programação.
+  - Linguagem de marcação.
+  - Linguagem de programação e marcação.
+  - Nenhuma das opções.
 
 ---
 
@@ -95,10 +96,12 @@ Salvar: `index.html` e abrir no navegador.
 
 ```html
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
   <head>
-    <title>Título da página</title>
     <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Título da página</title>
   </head>
   <body>
     <p>Meu fusca é azul.</p>
@@ -121,29 +124,39 @@ Salvar: `index.html` e abrir no navegador.
 
 ---
 
-### HTML semântico
-
-- O HTML semântico tem como objetivo descrever o significado do conteúdo presente em documentos HTML, tornando-o mais claro tanto para **programadores** quanto para **browsers** e outras engines que processam essa informação.
-
----
-
-### HTML semântico
-
-- Exemplos:
-
-```
-<header>
-<main>
-<section>
-<article>
-<nav>
-<aside>
-<footer>
-```
-
----
-
 ## Aula prática
+
+---
+
+#### Desafio para Turma
+
+```html
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Meu site Pessoal</title>
+    <style>
+      .container {
+        max-width: 800px;
+        margin: 0 auto;
+      }
+
+      .my-border {
+        border: 1px solid #c6c6c6;
+        padding: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container"></div>
+  </body>
+</html>
+```
+
+Salvar: `introducao-test.html`
 
 ---
 

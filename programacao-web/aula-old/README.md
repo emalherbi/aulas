@@ -86,7 +86,7 @@
 
 ```html
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
   <head>
     <title>Título da página</title>
     <meta charset="utf-8" />
@@ -129,7 +129,7 @@
 
 ```html
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
   <head>
     <title>Título da página</title>
     <meta charset="utf-8" />
@@ -163,7 +163,7 @@
 
 ```html
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="pt-BR">
   <head>
     <title>Título da página</title>
     <meta charset="utf-8" />
