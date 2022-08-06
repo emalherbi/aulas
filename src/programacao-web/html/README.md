@@ -41,7 +41,7 @@ Salvar: `index.html` e abrir no navegador.
 
 ---
 
-#### Anatomia de um elemento HTML
+#### Anatomia de um elemento HTML - TAGs
 
 ```html
 <p>Meu fusca é azul.</p>
@@ -52,6 +52,16 @@ Salvar: `index.html` e abrir no navegador.
 - O conteúdo.
 - O elemento:
   - A **tag de abertura**, mais a **tag de fechamento**, mais o **conteúdo**, é igual ao **elemento**.
+
+---
+
+#### Anatomia de um elemento HTML - TAGs sem fechamento
+
+```html
+<img src="fusca.jpg" width="100" height="100" alt="Texto alternativo" title="Figura" />
+```
+
+- Tag que não tem conteúdo;
 
 ---
 
@@ -118,4 +128,5 @@ Salvar: `index.html` e abrir no navegador.
 #### Referências
 
 - [HTML Introdução](https://developer.mozilla.org/pt-BR/docs/Learn/HTML/Introduction_to_HTML)
+- [HTML W3C](https://www.w3schools.com/html/default.asp)
 - [X-UA-Compatible](https://pt.stackoverflow.com/questions/209593/qual-%C3%A9-a-fun%C3%A7%C3%A3o-da-meta-tag-x-ua-compatible-dentro-do-html)
