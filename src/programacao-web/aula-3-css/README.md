@@ -62,6 +62,42 @@ p {
 
 ---
 
+#### CSS - Selecionando múltiplos elementos
+
+```css
+h1,
+p {
+  text-align: center;
+}
+```
+
+Salvar: `introducao-3.html`
+
+---
+
+#### CSS - Diferentes tipos de seletores
+
+| Nome do seletor | Exemplo              |
+| --------------- | -------------------- |
+| Elemento        | `<p>`                |
+| ID              | `#my-id`             |
+| Classe          | `.my-class`          |
+| Atributo        | `input[type="text"]` |
+| Pseudo-classe   | `a:hover`            |
+
+Salvar: `introducao-4.html`
+
+---
+
+#### CSS - Fontes e texto
+
+- Google Fonts
+- [https://fonts.google.com/](https://fonts.google.com/)
+
+Salvar: `introducao-5.html`
+
+---
+
 [CSS Animations](https://codepen.io/ajerez/pen/EaEEOW/)
 
 ---
