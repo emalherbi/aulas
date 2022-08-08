@@ -38,7 +38,7 @@
 <p>Meu fusca é azul.</p>
 ```
 
-Salvar: `index.html` e abrir no navegador.
+Salvar: `introducao-0.html` e abrir no navegador.
 
 ---
 
@@ -75,7 +75,7 @@ Salvar: `index.html` e abrir no navegador.
 - Atributos são **opções** do HTML para configurar as **tags**.
 - **href** e **target** são atributos da tag **`<a>`**;
 
-Salvar: `index.html` e abrir no navegador.
+Salvar: `introducao-0.html` e abrir no navegador.
 
 ---
 
@@ -88,7 +88,7 @@ Salvar: `index.html` e abrir no navegador.
 </div>
 ```
 
-Salvar: `index.html` e abrir no navegador.
+Salvar: `introducao-0.html` e abrir no navegador.
 
 ---
 
@@ -109,8 +109,6 @@ Salvar: `index.html` e abrir no navegador.
 </html>
 ```
 
-- Salvar: `index.html`
-
 ---
 
 ### HTML
@@ -121,6 +119,80 @@ Salvar: `index.html` e abrir no navegador.
 
 - Importante: SEMPRE deve existir o doctype.
 - O doctype é uma instrução para o navegador que o código encontrado ali é um código HTML.
+
+---
+
+### HTML
+
+```html
+<html lang="pt-BR"></html>
+```
+
+- O lang atributo especifica o idioma do conteúdo do elemento.
+- Os buscadores usam esses atributos pra entregar páginas da preferencia regional e de idioma de uma pessoa que esta buscando.
+
+---
+
+### HTML
+
+```html
+<meta charset="UTF-8" />
+```
+
+- A especificação HTML5 incentiva os desenvolvedores web a usar o conjunto de caracteres UTF-8, que cobre quase todos os caracteres e símbolos do mundo!
+
+---
+
+### HTML
+
+```html
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+```
+
+- Esta meta é exclusiva para Internet Explorer (introduzido no IE8), ela pode configurar a página para ser renderizada como em outra versão do Internet Explorer.
+
+---
+
+### HTML
+
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+```
+
+- O HTML5 introduziu um método para permitir que os web designers assumam o controle da viewport, por meio da <meta> tag.
+- A `width=device-width` parte define a largura da página para seguir a largura da tela do dispositivo (que varia de acordo com o dispositivo).
+- A `initial-scale=1.0` parte define o nível de zoom inicial quando a página é carregada pela primeira vez pelo navegador.
+
+---
+
+### HTML
+
+```html
+<title>Html Introdução</title>
+```
+
+- Título da Página
+
+---
+
+#### HTML - Estrutura básica
+
+```html
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Título da página</title>
+  </head>
+  <body>
+    <p>Meu fusca é azul.</p>
+  </body>
+</html>
+```
+
+- Salvar: `introducao-1.html`
 
 ---
 
