@@ -109,8 +109,6 @@ Salvar: `introducao-0.html` e abrir no navegador.
 </html>
 ```
 
-- Salvar: `introducao-1.html`
-
 ---
 
 ### HTML
@@ -127,7 +125,6 @@ Salvar: `introducao-0.html` e abrir no navegador.
 ### HTML
 
 ```html
-<!DOCTYPE html>
 <html lang="pt-BR"></html>
 ```
 
@@ -139,13 +136,7 @@ Salvar: `introducao-0.html` e abrir no navegador.
 ### HTML
 
 ```html
-<!DOCTYPE html>
-<html lang="pt-BR">
-  <head>
-    <meta charset="UTF-8" />
-  </head>
-  <body></body>
-</html>
+<meta charset="UTF-8" />
 ```
 
 - A especificação HTML5 incentiva os desenvolvedores web a usar o conjunto de caracteres UTF-8, que cobre quase todos os caracteres e símbolos do mundo!
@@ -155,14 +146,7 @@ Salvar: `introducao-0.html` e abrir no navegador.
 ### HTML
 
 ```html
-<!DOCTYPE html>
-<html lang="pt-BR">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  </head>
-  <body></body>
-</html>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 ```
 
 - Esta meta é exclusiva para Internet Explorer (introduzido no IE8), ela pode configurar a página para ser renderizada como em outra versão do Internet Explorer.
@@ -172,15 +156,7 @@ Salvar: `introducao-0.html` e abrir no navegador.
 ### HTML
 
 ```html
-<!DOCTYPE html>
-<html lang="pt-BR">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  </head>
-  <body></body>
-</html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 ```
 
 - O HTML5 introduziu um método para permitir que os web designers assumam o controle da viewport, por meio da <meta> tag.
@@ -192,17 +168,31 @@ Salvar: `introducao-0.html` e abrir no navegador.
 ### HTML
 
 ```html
+<title>Html Introdução</title>
+```
+
+- Título da Página
+
+---
+
+#### HTML - Estrutura básica
+
+```html
 <!DOCTYPE html>
 <html lang="pt-BR">
   <head>
-    <meta charset="UTF-8" />
+    <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Html Introdução</title>
+    <meta name="viewport" content="width=device-width" />
+    <title>Título da página</title>
   </head>
-  <body></body>
+  <body>
+    <p>Meu fusca é azul.</p>
+  </body>
 </html>
 ```
+
+- Salvar: `introducao-1.html`
 
 ---
 
