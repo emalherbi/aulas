@@ -38,7 +38,7 @@
 <p>Meu fusca é azul.</p>
 ```
 
-Salvar: `index.html` e abrir no navegador.
+Salvar: `introducao-0.html` e abrir no navegador.
 
 ---
 
@@ -75,7 +75,7 @@ Salvar: `index.html` e abrir no navegador.
 - Atributos são **opções** do HTML para configurar as **tags**.
 - **href** e **target** são atributos da tag **`<a>`**;
 
-Salvar: `index.html` e abrir no navegador.
+Salvar: `introducao-0.html` e abrir no navegador.
 
 ---
 
@@ -88,7 +88,7 @@ Salvar: `index.html` e abrir no navegador.
 </div>
 ```
 
-Salvar: `index.html` e abrir no navegador.
+Salvar: `introducao-0.html` e abrir no navegador.
 
 ---
 
@@ -109,18 +109,100 @@ Salvar: `index.html` e abrir no navegador.
 </html>
 ```
 
-- Salvar: `index.html`
+- Salvar: `introducao-1.html`
 
 ---
 
 ### HTML
 
 ```html
+<!-- 
+  Importante: SEMPRE deve existir o doctype.
+  O doctype é uma instrução para o navegador que o código encontrado ali é um código HTML. 
+-->
 <!DOCTYPE html>
 ```
 
-- Importante: SEMPRE deve existir o doctype.
-- O doctype é uma instrução para o navegador que o código encontrado ali é um código HTML.
+---
+
+### HTML
+
+```html
+<!-- 
+  O lang atributo especifica o idioma do conteúdo do elemento. 
+  Os buscadores usam esses atributos pra entregar páginas da preferencia regional e de idioma de uma pessoa que esta buscando. 
+-->
+<html lang="pt-BR"></html>
+```
+
+---
+
+### HTML
+
+```html
+<html lang="pt-BR">
+  <head>
+    <!-- 
+      A especificação HTML5 incentiva os desenvolvedores web a usar o conjunto de caracteres UTF-8, que cobre quase todos os  caracteres e símbolos do mundo!
+    -->
+    <meta charset="UTF-8" />
+  </head>
+  <body></body>
+</html>
+```
+
+---
+
+### HTML
+
+```html
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <!-- 
+      Esta meta é exclusiva para Internet Explorer (introduzido no IE8), ela pode configurar a página para ser renderizada como em outra versão do Internet Explorer. 
+    -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  </head>
+  <body></body>
+</html>
+```
+
+---
+
+### HTML
+
+```html
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!--
+      O HTML5 introduziu um método para permitir que os web designers assumam o controle da viewport, por meio da <meta> tag.
+      A width=device-width parte define a largura da página para seguir a largura da tela do dispositivo (que varia de acordo com o dispositivo).
+      A initial-scale=1.0 parte define o nível de zoom inicial quando a página é carregada pela primeira vez pelo navegador.
+     -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body></body>
+</html>
+```
+
+---
+
+### HTML
+
+```html
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Html Introdução</title>
+  </head>
+  <body></body>
+</html>
+```
 
 ---
 
