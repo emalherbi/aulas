@@ -200,35 +200,7 @@ Salvar: `introducao-0.html` e abrir no navegador.
 
 ---
 
-#### Desafio para Turma
-
-```html
-<!DOCTYPE html>
-<html lang="pt-BR">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Meu site Pessoal</title>
-    <style>
-      .container {
-        max-width: 800px;
-        margin: 0 auto;
-      }
-
-      .my-border {
-        border: 1px solid #c6c6c6;
-        padding: 5px;
-      }
-    </style>
-  </head>
-  <body>
-    <div class="container"></div>
-  </body>
-</html>
-```
-
-Salvar: `introducao-test.html`
+## Desafio para Turma
 
 ---
 
