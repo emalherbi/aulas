@@ -166,7 +166,7 @@ node app.js
 
 ---
 
-#### Desafio para Turma
+## Desafio para Turma
 
 - Retonar os usuários cadastrados da API através da chamada GET "http://localhost:6000/usuarios" conforme o JSON de exemplo.
 
