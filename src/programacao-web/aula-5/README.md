@@ -11,7 +11,6 @@
 
 <br />
 
-| Sumário                                     |
-| ------------------------------------------- |
-| [HTML Semântico](../aula-4-html-semantico/) |
-| [CSS](../aula-4-css/)                       |
+| Sumário               |
+| --------------------- |
+| [CSS](../aula-5-css/) |
