@@ -85,6 +85,12 @@ Clique sobre a imagem para vizualizar.
 
 ---
 
+#### Regras do Trabalho
+
+11. O código deve ser formatado, pode-se utilizar [prettier](https://prettier.io/)
+
+---
+
 Entrega: 29/08/2022, até 22:40;
 
 ---
