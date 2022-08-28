@@ -294,6 +294,14 @@ git push --force-with-lease
 
 ---
 
+7. Alias do GIT
+
+```
+~/.gitconfig
+```
+
+---
+
 #### Referências
 
 - [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
