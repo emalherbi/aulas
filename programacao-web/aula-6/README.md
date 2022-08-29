@@ -88,6 +88,7 @@ Clique sobre a imagem para vizualizar.
 #### Regras do Trabalho
 
 11. O código deve ser formatado, pode-se utilizar [prettier](https://prettier.io/)
+12. Enviar o trabalho no [GITHUB](https://github.com/)
 
 ---
 
