@@ -7,3 +7,9 @@
 .reveal table td {
   text-align: center !important;
 }
+
+.scrollable {
+  overflow-y: auto  !important;
+  overflow-x: hidden !important;
+  height: 700px;
+}
