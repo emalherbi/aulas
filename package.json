@@ -6,7 +6,8 @@
   "author": "emalherbi",
   "license": "MIT",
   "scripts": {
-    "start": "node ./index.js"
+    "start": "grunt",
+    "build": "node ./index.js"
   },
   "devDependencies": {
     "folder-walker": "^3.2.0",
