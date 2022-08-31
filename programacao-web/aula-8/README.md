@@ -11,6 +11,6 @@
 
 <br />
 
-| Sumário                                 |
-| --------------------------------------- |
-| [GIT Comandos](../aula-8-git-comandos/) |
+| Sumário                                                               |
+| --------------------------------------------------------------------- |
+| [Guia prático do git](https://github.com/emalherbi/git-descomplicado) |
