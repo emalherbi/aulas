@@ -86,6 +86,11 @@ function atualizarNome() {
 #### Browser APIs
 
 - A API DOM (Document Object Model) permite a você manipular HTML e CSS, criando, removendo e mudando HTML, aplicando dinamicamente novos estilos para a sua página, etc. Toda vez que você vê uma janela pop-up aparecer em uma página, ou vê algum novo conteúdo sendo exibido (como nós vimos no exemplo), isso é o DOM em ação.
+
+---
+
+#### Browser APIs
+
 - A API de Geolocalização recupera informações geográficas. É assim que o Google Maps consegue encontrar sua localização e colocar em um mapa.
 
 ---
@@ -95,6 +100,11 @@ function atualizarNome() {
 - As APIs Canvas e WebGL permite a você criar gráficos 2D e 3D animados.
   - [Chrome Experiments](https://experiments.withgoogle.com/search?q=WebGL)
   - [webglsamples](https://webglsamples.org/).
+
+---
+
+#### Browser APIs
+
 - APIs de áudio e vídeo como HTMLMediaElement (en-US) e WebRTC permitem a você fazer coisas realmente interessantes com multimídia, tanto tocar música e vídeo em uma página da web, como capturar vídeos com a sua câmera e exibir no computador de outra pessoa (veja Snapshot demo para ter uma ideia).
 
 ---
