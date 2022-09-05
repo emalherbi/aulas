@@ -125,7 +125,6 @@ function atualizarNome() {
 #### O que JavaScript está fazendo na sua página web?
 
 - Um uso muito comum do JavaScript é modificar dinamicamente HTML e CSS para atualizar uma interface do usuário, por meio da API do DOM.
-- Observe que o código em seus documentos web geralmente é carregado e executado na ordem em que aparece na página. Se o JavaScript carregar e tentar executar antes do carregamento do HTML e CSS afetado, poderão ocorrer erros.
 
 ---
 
