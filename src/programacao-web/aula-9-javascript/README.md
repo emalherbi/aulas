@@ -13,15 +13,27 @@ O que é Javascript?
 
 #### JavaScript
 
-JavaScript é uma linguagem de programação que permite a você implementar itens complexos em páginas web — toda vez que uma página da web faz mais do que simplesmente mostrar a você informação estática — mostrando conteúdo que se atualiza em um intervalo de tempo, mapas interativos ou gráficos 2D/3D animados, etc. — você pode apostar que o JavaScript provavelmente está envolvido.
+- JavaScript é uma linguagem de programação que permite a você implementar itens complexos em páginas web — toda vez que uma página da web faz mais do que simplesmente mostrar a você informação estática — mostrando conteúdo que se atualiza em um intervalo de tempo, mapas interativos ou gráficos 2D/3D animados, etc.
 
 ---
 
 #### Web
 
-- HTML é a linguagem de marcação que nós usamos para estruturar e dar significado para o nosso conteúdo web. Por exemplo, definindo parágrafos, cabeçalhos, tabelas de conteúdo, ou inserindo imagens e vídeos na página.
-- CSS é uma linguagem de regras de estilo que nós usamos para aplicar estilo ao nosso conteúdo HTML. Por exemplo, definindo cores de fundo e fontes, e posicionando nosso conteúdo em múltiplas colunas.
-- JavaScript é uma linguagem de programação que permite a você criar conteúdo que se atualiza dinamicamente, controlar múltimídias, imagens animadas, e tudo o mais que há de intessante. Ok, não tudo, mas é maravilhoso o que você pode efetuar com algumas linhas de código JavaScript.
+- HTML é a linguagem de marcação que nós usamos para estruturar e dar significado para o nosso conteúdo web.
+  - Por exemplo, definindo parágrafos, cabeçalhos, tabelas de conteúdo, ou inserindo imagens e vídeos na página.
+
+---
+
+#### Web
+
+- CSS é uma linguagem de regras de estilo que nós usamos para aplicar estilo ao nosso conteúdo HTML.
+  - Por exemplo, definindo cores de fundo e fontes, e posicionando nosso conteúdo em múltiplas colunas.
+
+---
+
+#### Web
+
+- JavaScript é uma linguagem de programação que permite a você criar conteúdo que se atualiza dinamicamente, controlar múltimídias, imagens animadas, etc...
 
 ---
 
@@ -48,8 +60,18 @@ function atualizarNome() {
 
 - Armazenar conteúdo útil em variáveis.
   - No exemplo, nós pedimos que um novo nome seja inserido e armazenamos o nome em uma variável chamada nome.
+
+---
+
+#### Então o que ele pode realmente fazer?
+
 - Operações com pedaços de texto (conhecidos como "strings" em programação).
   - No exemplo, nós pegamos a string "Jogador 1: " e concatenamos com a variável nome para criar o texto completo "Jogador 1: Juca Bala".
+
+---
+
+#### Então o que ele pode realmente fazer?
+
 - Executar o código em resposta a determinados eventos que ocorrem em uma página da Web.
   - Nós usamos o click no nosso exemplo para que quando clicassem no botão, rodasse o código que atualiza o texto.
 
@@ -63,7 +85,12 @@ function atualizarNome() {
 
 #### Browser APIs
 
-- A API DOM (Document Object Model) permite a você manipular HTML e CSS, criando, removendo e mudando HTML, aplicando dinamicamente novos estilos para a sua página, etc. Toda vez que você vê uma janela pop-up aparecer em uma página, ou vê algum novo conteúdo sendo exibido (como nós vimos no exemplo), isso é o DOM em ação.
+- A API DOM (Document Object Model) permite a você manipular HTML e CSS, criando, removendo e mudando HTML, aplicando dinamicamente novos estilos para a sua página, etc...
+
+---
+
+#### Browser APIs
+
 - A API de Geolocalização recupera informações geográficas. É assim que o Google Maps consegue encontrar sua localização e colocar em um mapa.
 
 ---
@@ -73,7 +100,12 @@ function atualizarNome() {
 - As APIs Canvas e WebGL permite a você criar gráficos 2D e 3D animados.
   - [Chrome Experiments](https://experiments.withgoogle.com/search?q=WebGL)
   - [webglsamples](https://webglsamples.org/).
-- APIs de áudio e vídeo como HTMLMediaElement (en-US) e WebRTC permitem a você fazer coisas realmente interessantes com multimídia, tanto tocar música e vídeo em uma página da web, como capturar vídeos com a sua câmera e exibir no computador de outra pessoa (veja Snapshot demo para ter uma ideia).
+
+---
+
+#### Browser APIs
+
+- APIs de áudio e vídeo como HTMLMediaElement (en-US) e WebRTC permitem a você fazer coisas realmente interessantes com multimídia, tanto tocar música e vídeo em uma página da web, como capturar vídeos com a sua câmera e exibir no computador de outra pessoa.
 
 ---
 
@@ -93,7 +125,6 @@ function atualizarNome() {
 #### O que JavaScript está fazendo na sua página web?
 
 - Um uso muito comum do JavaScript é modificar dinamicamente HTML e CSS para atualizar uma interface do usuário, por meio da API do DOM.
-- Observe que o código em seus documentos web geralmente é carregado e executado na ordem em que aparece na página. Se o JavaScript carregar e tentar executar antes do carregamento do HTML e CSS afetado, poderão ocorrer erros.
 
 ---
 
