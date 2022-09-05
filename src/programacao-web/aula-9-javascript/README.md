@@ -101,6 +101,65 @@ function atualizarNome() {
 
 ---
 
+#### Tipo de dados
+
+- Ref: 06 - Escreva um programa que obtêm dois valores inteiros (variáveis A e B) e apresente as operações de adição, subtração, multiplicação e divisão de A por B.
+
+---
+
+#### Tipo de dados
+
+- Ref: 17 - Ler o preço de um produto e calcular o novo preço com desconto informado.
+
+---
+
+#### Tipo de dados
+
+- Ref: 26 - Efetuar a leitura de um número inteiro e apresentar a tabuada deste número.
+
+---
+
+#### Condição IF
+
+- Ref: 16 - Elabore um programa que, dada a idade de um nadador, classifique-o em uma das seguintes categorias:
+  - infantil A = 5 - 7 anos
+  - infantil B = 8 - 11 anos
+  - juvenil A = 12 - 14 anos
+  - juvenil B = 15 - 18 anos
+  - sênior = maiores de 18 anos
+
+---
+
+#### Condição IF
+
+- Ref: 31 - O Índice de Massa Corporal (IMC) é uma fórmula que indica se um adulto está acima do peso, se está obeso ou abaixo do peso ideal considerado saudável. A fórmula para calcular o Índice de Massa Corporal é: IMC = peso / (altura)2. A Organização Mundial de Saúde usa um critério simples para considerar quem está acima do peso e quem é obeso:
+  - IMC calculado = Situação
+  - Menos de 20 = Abaixo do peso
+  - 20 ≤ IMC < 25 = Peso Normal
+  - 25 ≤ IMC < 30 = Acima do peso
+  - 30 ≤ IMC < 34 = Obeso
+  - Acima de 34 = Muito Obeso
+
+---
+
+### Lista Array
+
+- Ref: 02 - Criar um vetor A com 8 elementos inteiros igual: 5, 6, 7, 10, 13, 15, 18, 20. Construir um vetor B de mesmo tipo e tamanho e com os elementos do vetor A multiplicados por 2.
+
+---
+
+### Lista Str
+
+- Ref 06: Fazer um programa para contar quantos espaços em branco existem em uma frase fornecida pelo usuário.
+
+---
+
+### Jogo adivinhe o número
+
+- Nós selecionamos um número aleatório entre 1 e 100. Veja se consegue adivinhar em 10 chances ou menos. Nós lhe diremos se seu palpite foi muito alto ou muito baixo.
+
+---
+
 #### Referências
 
 - [Javascript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
