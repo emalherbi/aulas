@@ -20,14 +20,14 @@ O que é Javascript?
 #### Web
 
 - HTML é a linguagem de marcação que nós usamos para estruturar e dar significado para o nosso conteúdo web.
-- Por exemplo, definindo parágrafos, cabeçalhos, tabelas de conteúdo, ou inserindo imagens e vídeos na página.
+  - Por exemplo, definindo parágrafos, cabeçalhos, tabelas de conteúdo, ou inserindo imagens e vídeos na página.
 
 ---
 
 #### Web
 
 - CSS é uma linguagem de regras de estilo que nós usamos para aplicar estilo ao nosso conteúdo HTML.
-- Por exemplo, definindo cores de fundo e fontes, e posicionando nosso conteúdo em múltiplas colunas.
+  - Por exemplo, definindo cores de fundo e fontes, e posicionando nosso conteúdo em múltiplas colunas.
 
 ---
 
@@ -105,7 +105,7 @@ function atualizarNome() {
 
 #### Browser APIs
 
-- APIs de áudio e vídeo como HTMLMediaElement (en-US) e WebRTC permitem a você fazer coisas realmente interessantes com multimídia, tanto tocar música e vídeo em uma página da web, como capturar vídeos com a sua câmera e exibir no computador de outra pessoa (veja Snapshot demo para ter uma ideia).
+- APIs de áudio e vídeo como HTMLMediaElement (en-US) e WebRTC permitem a você fazer coisas realmente interessantes com multimídia, tanto tocar música e vídeo em uma página da web, como capturar vídeos com a sua câmera e exibir no computador de outra pessoa.
 
 ---
 
