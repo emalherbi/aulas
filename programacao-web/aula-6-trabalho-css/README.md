@@ -2,8 +2,6 @@
 
 ---
 
-Clique sobre a imagem para vizualizar.
-
 ![IMG](./cv.png)
 
 ---
@@ -35,8 +33,6 @@ Clique sobre a imagem para vizualizar.
 
 ---
 
-Clique sobre a imagem para vizualizar.
-
 ![IMG](./cv-mobile.png)
 
 ---
@@ -48,8 +44,6 @@ Clique sobre a imagem para vizualizar.
 
 ---
 
-Clique sobre a imagem para vizualizar.
-
 ![IMG](./cv-espacamentos.png)
 
 ---
@@ -60,8 +54,6 @@ Clique sobre a imagem para vizualizar.
 
 ---
 
-Clique sobre a imagem para vizualizar.
-
 ![IMG](./cv-contato.png)
 
 ---
@@ -71,8 +63,6 @@ Clique sobre a imagem para vizualizar.
 8. Contato seguir conforme imagem de exemplo;
 
 ---
-
-Clique sobre a imagem para vizualizar.
 
 ![IMG](./cv-contato-required.png)
 
