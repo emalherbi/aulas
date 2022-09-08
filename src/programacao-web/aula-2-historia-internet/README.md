@@ -4,7 +4,7 @@
 
 #### A História da Internet
 
-[![A História da Internet](./img/html-criador.jpg)](https://youtu.be/pKxWPo73pX0 "A História da Internet")
+[![A História da Internet](./img1.jpg)](https://youtu.be/pKxWPo73pX0 'A História da Internet')
 
 ---
 

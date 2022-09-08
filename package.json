@@ -14,6 +14,8 @@
     "grunt": "^1.4.1",
     "grunt-contrib-clean": "^2.0.1",
     "grunt-contrib-copy": "^1.0.0",
-    "grunt-gh-pages": "^4.0.0"
+    "grunt-gh-pages": "^4.0.0",
+    "grunt-mkdir": "^1.1.0",
+    "grunt-shell": "^4.0.0"
   }
 }

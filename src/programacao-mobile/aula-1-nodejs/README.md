@@ -15,7 +15,7 @@
 
 #### [Conhecendo a Turma](https://forms.gle/qkgyQ5dzPSGyFgPT7)
 
-<img src="./img/qrcode-conhecendo-turma.png" style="width: 50%">
+![IMG](./img1.png)
 
 ---
 
