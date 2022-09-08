@@ -9,7 +9,7 @@
 
 #### Objetivo
 
-- Desenvolver um aplicativo com IONIC e NestJS para consultar minhas séries e filmes favoritos do IMDB.
+- Desenvolver um aplicativo com IONIC e NestJS.
 
 ---
 
