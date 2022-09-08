@@ -1,24 +1,77 @@
 ## Programação Web
 
-<br />
+---
 
-| Sumário           |
-| ----------------- |
-| [AULA 1](aula-1/) |
-| [AULA 2](aula-2/) |
-| [AULA 3](aula-3/) |
-| [AULA 4](aula-4/) |
-| [AULA 5](aula-5/) |
-| [AULA 6](aula-6/) |
+## Aula 1
+
+| Sumário                  |
+| ------------------------ |
+| [Ementa](aula-1-ementa/) |
 
 ---
 
-## Programação Web
+## Aula 2
 
-<br />
+| Sumário                                                  |
+| -------------------------------------------------------- |
+| [A História da Internet](../aula-2-historia-internet/)   |
+| [Servidor Apache](../aula-2-servidor-apache/)            |
+| [Instalação do XAMPP / LAMP](../aula-2-xampp/)           |
+| [Gerenciador de Pacotes](../aula-2-gerenciador-pacotes/) |
+| [Criação de Templates](../aula-2-criacao-templates/)     |
 
-| Sumário           |
-| ----------------- |
-| [AULA 7](aula-7/) |
-| [AULA 8](aula-8/) |
-| [AULA 9](aula-9/) |
+---
+
+## Aula 3
+
+| Sumário                 |
+| ----------------------- |
+| [HTML](../aula-3-html/) |
+
+---
+
+## Aula 4
+
+| Sumário                                     |
+| ------------------------------------------- |
+| [HTML Semântico](../aula-4-html-semantico/) |
+
+---
+
+## Aula 5
+
+| Sumário               |
+| --------------------- |
+| [CSS](../aula-5-css/) |
+
+---
+
+## Aula 6
+
+| Sumário                                 |
+| --------------------------------------- |
+| [Trabalho CSS](../aula-6-trabalho-css/) |
+
+---
+
+## Aula 7
+
+| Sumário               |
+| --------------------- |
+| [GIT](../aula-7-git/) |
+
+---
+
+## Aula 8
+
+| Sumário                                                               |
+| --------------------------------------------------------------------- |
+| [Guia prático do git](https://github.com/emalherbi/git-descomplicado) |
+
+---
+
+## Aula 9
+
+| Sumário                             |
+| ----------------------------------- |
+| [Javascript](../aula-9-javascript/) |
