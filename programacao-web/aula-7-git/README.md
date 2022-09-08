@@ -61,7 +61,7 @@ Por que usar o Git?
 
 #### Fluxo de trabalho
 
-<img src="./img/git1.png" />
+![IMG](./git1.png)
 
 As branchs oferecem um <b>ambiente isolado</b> para cada alteração na base de código.
 
@@ -78,7 +78,7 @@ Assim, é garantido que o branch principal sempre contenha código de qualidade 
 
 #### Desenvolvimento distribuído
 
-<img src="./img/git2.png" />
+![IMG](./git2.png)
 
 - SVN - Cada desenvolvedor recebe uma <b>cópia de trabalho</b> que aponta para um único repositório central.
 - Git - Cada desenvolvedor <b>obtém seu próprio repositório local</b>, com um histórico completo de commits.
@@ -99,7 +99,7 @@ Vantagens:
 
 #### Solicitações pull
 
-<img src="./img/git3.png" />
+![IMG](./git3.png)
 
 Um pull request é uma forma de pedir a outro desenvolvedor para fazer o <b>merge da branch no repositório main (master)</b>.
 
@@ -154,7 +154,7 @@ Deve aparecer seu nome e email cadastrados.
 
 Digitar: Opções de explorador de arquivos.
 
-<img src="./img/git4.png" />
+![IMG](./git4.png)
 
 ---
 
@@ -182,31 +182,31 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 
 #### SSH
 
-<img src="./img/git5.png" />
+![IMG](./git5.png)
 
 ---
 
 #### SSH
 
-<img src="./img/git6.png" />
+![IMG](./git6.png)
 
 ---
 
 #### SSH
 
-<img src="./img/git7.png" />
+![IMG](./git7.png)
 
 ---
 
 #### Cadastrando o SSH no GITHUB
 
-<img src="./img/git8.png" />
+![IMG](./git8.png)
 
 ---
 
 #### Cadastrando o SSH no GITHUB
 
-<img src="./img/git9.png" />
+![IMG](./git9.png)
 
 ---
 

@@ -4,7 +4,7 @@
 
 Clique sobre a imagem para vizualizar.
 
-[<img src="./img/cv.png" style="width: 80%">](img/cv.png)
+![IMG](./cv.png)
 
 ---
 
@@ -37,7 +37,7 @@ Clique sobre a imagem para vizualizar.
 
 Clique sobre a imagem para vizualizar.
 
-[<img src="./img/cv-mobile.png" style="width: 80%">](img/cv-mobile.png)
+![IMG](./cv-mobile.png)
 
 ---
 
@@ -50,7 +50,7 @@ Clique sobre a imagem para vizualizar.
 
 Clique sobre a imagem para vizualizar.
 
-[<img src="./img/cv-espacamentos.png" style="width: 80%">](img/cv-espacamentos.png)
+![IMG](./cv-espacamentos.png)
 
 ---
 
@@ -62,7 +62,7 @@ Clique sobre a imagem para vizualizar.
 
 Clique sobre a imagem para vizualizar.
 
-[<img src="./img/cv-contato.png" style="width: 80%">](img/cv-contato.png)
+![IMG](./cv-contato.png)
 
 ---
 
@@ -74,7 +74,7 @@ Clique sobre a imagem para vizualizar.
 
 Clique sobre a imagem para vizualizar.
 
-## [<img src="./img/cv-contato-required.png" style="width: 80%">](img/cv-contato-required.png)
+![IMG](./cv-contato-required.png)
 
 ---
 

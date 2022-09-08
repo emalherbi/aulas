@@ -23,10 +23,10 @@
 
 #### [MIRC](https://emalherbi.com/emm/mirc/)
 
-<img src="./img/qrcode-mirc.png" style="width: 50%">
+![IMG](./img1.png)
 
 ---
 
 #### [Conhecendo a Turma](https://forms.gle/qkgyQ5dzPSGyFgPT7)
 
-<img src="./img/qrcode-conhecendo-turma.png" style="width: 50%">
+![IMG](./img2.png)

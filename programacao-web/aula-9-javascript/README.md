@@ -118,7 +118,7 @@ function atualizarNome() {
 
 #### O que JavaScript está fazendo na sua página web?
 
-<img src="./img/js1.png" />
+![IMG](./img1.png)
 
 ---
 
