@@ -187,7 +187,8 @@ Salvar: `introducao-0.html` e abrir no navegador.
     <title>Título da página</title>
   </head>
   <body>
-    <p>Meu fusca é azul.</p>
+    <h1>Olá, UNIDEP.</h1>
+    <p>Minha primeira página web.</p>
   </body>
 </html>
 ```
