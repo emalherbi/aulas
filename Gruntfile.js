@@ -24,6 +24,7 @@ module.exports = function (grunt) {
           { expand: true, dot: true, src: 'index.html', cwd: '<%= properties.src %>', dest: '<%= properties.dist %>/programacao-web' },
           { expand: true, dot: true, src: 'index.html', cwd: '<%= properties.src %>', dest: '<%= properties.dist %>/sobre-professor' },
           /* programação mobile */
+          { expand: true, dot: true, src: 'index.html', cwd: '<%= properties.src %>', dest: '<%= properties.dist %>/programacao-mobile/aula-3-ionic' },
           { expand: true, dot: true, src: 'index.html', cwd: '<%= properties.src %>', dest: '<%= properties.dist %>/programacao-mobile/aula-2-nestjs' },
           { expand: true, dot: true, src: 'index.html', cwd: '<%= properties.src %>', dest: '<%= properties.dist %>/programacao-mobile/aula-1-nodejs' },
           /* programação web */
@@ -48,6 +49,7 @@ module.exports = function (grunt) {
       build: {
         command: [
           /* programação mobile */
+          ` pandoc --resource-path=<%= properties.src %>/programacao-mobile/aula-3-ionic <%= properties.src %>/programacao-mobile/aula-3-ionic/README.md -o <%= properties.doc %>/programacao-mobile-aula-3-ionic.docx `,
           ` pandoc --resource-path=<%= properties.src %>/programacao-mobile/aula-2-nestjs <%= properties.src %>/programacao-mobile/aula-2-nestjs/README.md -o <%= properties.doc %>/programacao-mobile-aula-2-nestjs.docx `,
           ` pandoc --resource-path=<%= properties.src %>/programacao-mobile/aula-1-nodejs <%= properties.src %>/programacao-mobile/aula-1-nodejs/README.md -o <%= properties.doc %>/programacao-mobile-aula-1-nodejs.docx `,
           /* programação web */
