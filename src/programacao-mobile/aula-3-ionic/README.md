@@ -46,7 +46,7 @@
 
 #### Vantagens do Ionic
 
-- **Prototipação**: Criar telas no Ionic é extremamente fácil, pois possui uma ferramenta para esta finalidade, o Ionic Creator, que é uma ferramenta de "arrasta e solta" para facilitar as ideias de criação de suas aplicações;
+- **Prototipação**: Criar telas no Ionic é extremamente fácil, pois possui uma ferramenta para esta finalidade, o **Ionic Creator**, que é uma ferramenta de "arrasta e solta" para facilitar as ideias de criação de suas aplicações;
 - **Documentação**: Além de possuir uma grande comunidade, a documentação do Ionic é bastante completa, entre outras.
 
 ---
