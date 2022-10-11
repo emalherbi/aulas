@@ -5,7 +5,7 @@ Olá! Sou Eduardo Malherbi Martins.
 <br />
 
 - Desenvolvedor de software a mais de 14 anos com foco no desenvolvimento WEB;
-- Coordenador Web e Scrum Master na XPert;
+- Coordenador Web e Scrum Master (SM);
 
 ---
 
@@ -39,6 +39,11 @@ Olá! Sou Eduardo Malherbi Martins.
 #### Conhecimentos
 
 - WEB development: HTML. XHTML. CSS. CSS3. SASS. LESS. JavaScript. JQuery. AngularJS. Angular. Bootstrap. PureCSS. Flash Builder 4. PHP. ZEND. Wordpress. Grav. Java. NodeJS. NestJS. TypeORM.
+
+---
+
+#### Conhecimentos
+
 - Desktop development: Object Pascal (Delphi7, Delphi2007, Delphi2010). Visual Basic. Java.
 
 ---
@@ -46,7 +51,17 @@ Olá! Sou Eduardo Malherbi Martins.
 #### Conhecimentos
 
 - Mobile development: Ionic. PhoneGap. Android (Java). JQueryMobile.
+
+---
+
+#### Conhecimentos
+
 - Servers: Azure (Microsoft). AWS (Amazon). Apache. Nginx. Docker.
+
+---
+
+#### Conhecimentos
+
 - Creating Reports: FPDF. DOMPDF. FastReport. QuickReport.
 
 ---
@@ -54,5 +69,15 @@ Olá! Sou Eduardo Malherbi Martins.
 #### Conhecimentos
 
 - Mainframe programming: COBOL (Bath, IMS e Stored Procedures), Micro Focus MainFrame (MFE).
+
+---
+
+#### Conhecimentos
+
 - SGBD: Sql Server 2000, 2005, 2008, 2012. DB2. MySql. MongoDB.
+
+---
+
+#### Conhecimentos
+
 - Creating Test Cases and Test Software: MERCURY QUALITY CENTER. HexaVison (HSBC).
