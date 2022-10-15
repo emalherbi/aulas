@@ -18,6 +18,7 @@ Framework **back-end** que auxilia o desenvolvimento de aplicações eficientes,
 #### Instalação do NestJS
 
 ```bash
+npm i -g yarn
 npm i -g @nestjs/cli
 ```
 
@@ -28,15 +29,23 @@ npm i -g @nestjs/cli
 ```bash
 mkdir aula-app-nest
 cd aula-app-nest
-nest new server
+nest new server ou nest new servidor
 ```
+
+---
+
+#### Instalação
+
+- Which package manager would you ❤️ to use? 
+- npm ou yarn
 
 ---
 
 #### Acessando o projeto
 
 ```bash
-cd server
+cd server // ou 
+cd servidor
 code .
 ```
 
@@ -45,7 +54,9 @@ code .
 #### Executando o projeto
 
 ```bash
-yarn start
+npm start // ou 
+yarn start // ou 
+nest start
 ```
 
 ---
@@ -59,14 +70,16 @@ yarn start
 #### Instalando Mysql And TypeORM
 
 ```
+npm install @nestjs/typeorm typeorm mysql // ou
 yarn add @nestjs/typeorm typeorm mysql
 ```
 
 ---
 
-#### CRUD Usuario
+#### Criando um CRUD
 
 ```
+cd src
 nest g module usuario
 nest g controller usuario
 nest g service usuario
