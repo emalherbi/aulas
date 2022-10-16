@@ -29,6 +29,7 @@ module.exports = function (grunt) {
           { expand: true, dot: true, src: 'index.html', cwd: '<%= properties.src %>', dest: '<%= properties.dist %>/programacao-mobile/aula-2-nestjs' },
           { expand: true, dot: true, src: 'index.html', cwd: '<%= properties.src %>', dest: '<%= properties.dist %>/programacao-mobile/aula-1-nodejs' },
           /* programação web */
+          { expand: true, dot: true, src: 'index.html', cwd: '<%= properties.src %>', dest: '<%= properties.dist %>/programacao-web/aula-12-jquery' },
           { expand: true, dot: true, src: 'index.html', cwd: '<%= properties.src %>', dest: '<%= properties.dist %>/programacao-web/aula-11-framework-css' },
           { expand: true, dot: true, src: 'index.html', cwd: '<%= properties.src %>', dest: '<%= properties.dist %>/programacao-web/aula-10-ajax' },
           { expand: true, dot: true, src: 'index.html', cwd: '<%= properties.src %>', dest: '<%= properties.dist %>/programacao-web/aula-9-javascript' },
@@ -55,6 +56,7 @@ module.exports = function (grunt) {
           ` pandoc --resource-path=<%= properties.src %>/programacao-mobile/aula-2-nestjs <%= properties.src %>/programacao-mobile/aula-2-nestjs/README.md -o <%= properties.doc %>/programacao-mobile-aula-2-nestjs.docx `,
           ` pandoc --resource-path=<%= properties.src %>/programacao-mobile/aula-1-nodejs <%= properties.src %>/programacao-mobile/aula-1-nodejs/README.md -o <%= properties.doc %>/programacao-mobile-aula-1-nodejs.docx `,
           /* programação web */
+          ` pandoc --resource-path=<%= properties.src %>/programacao-web/aula-12-jquery <%= properties.src %>/programacao-web/aula-12-jquery/README.md -o <%= properties.doc %>/programacao-web-aula-12-jquery.docx `,
           ` pandoc --resource-path=<%= properties.src %>/programacao-web/aula-11-framework-css <%= properties.src %>/programacao-web/aula-11-framework-css/README.md -o <%= properties.doc %>/programacao-web-aula-11-framework-css.docx `,
           ` pandoc --resource-path=<%= properties.src %>/programacao-web/aula-10-ajax <%= properties.src %>/programacao-web/aula-10-ajax/README.md -o <%= properties.doc %>/programacao-web-aula-10-ajax.docx `,
           ` pandoc --resource-path=<%= properties.src %>/programacao-web/aula-9-javascript <%= properties.src %>/programacao-web/aula-9-javascript/README.md -o <%= properties.doc %>/programacao-web-aula-9-javascript.docx `,
