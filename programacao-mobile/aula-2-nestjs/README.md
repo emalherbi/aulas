@@ -22,7 +22,7 @@ Framework **back-end** que auxilia o desenvolvimento de aplicações eficientes,
 
 #### NestJS Filosofia
 
-Nos últimos anos, graças ao Node.js, o JavaScript se tornou a **"línguagem padrão"** da web tanto para aplicativos front-end quanto back-end. Isso deu origem a projetos incríveis como Angular, React e Vue, que melhoram a produtividade do desenvolvedor e permitem a criação de aplicativos front-end rápidos, testáveis ​​e extensíveis.
+Nos últimos anos, graças ao **Node.js**, o **JavaScript** se tornou a **"línguagem padrão"** da web tanto para aplicativos front-end quanto back-end. Isso deu origem a projetos incríveis como **Angular**, **React** e **Vue**, que melhoram a produtividade do desenvolvedor e permitem a criação de aplicativos front-end rápidos, testáveis ​​e extensíveis.
 
 ---
 
