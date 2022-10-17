@@ -50,9 +50,9 @@ npm i -g @nestjs/cli
 #### Iniciando o Projeto
 
 ```bash
-mkdir aula-app-nest
-cd aula-app-nest
-nest new server ou nest new servidor
+mkdir server ou servidor
+cd server ou servidor
+nest new server ou servidor
 ```
 
 ---
@@ -67,8 +67,7 @@ nest new server ou nest new servidor
 #### Acessando o projeto
 
 ```bash
-cd server // ou
-cd servidor
+cd server ou servidor
 code .
 ```
 
@@ -77,9 +76,7 @@ code .
 #### Executando o projeto
 
 ```bash
-npm start // ou
-yarn start // ou
-nest start
+npm start ou yarn start ou nest start
 ```
 
 ---
