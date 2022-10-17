@@ -100,3 +100,4 @@
 | ---------------------------------------------- |
 | [NestJS](../programacao-mobile/aula-2-nestjs/) |
 | [JQuery](./aula-12-jquery/)                    |
+| [Fetch](./aula-12-fetch/)                      |

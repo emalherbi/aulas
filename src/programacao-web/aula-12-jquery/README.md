@@ -40,6 +40,18 @@ Com uma combinação de versatilidade e extensibilidade, o jQuery mudou a maneir
 
 ---
 
+#### Instalação
+
+```bash
+bower install jquery-ui --save
+bower install moment --save
+// ou
+npm i jquery-ui --save
+npm i moment --save
+```
+
+---
+
 #### Referências
 
 - [JQuery](https://jquery.com/)

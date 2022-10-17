@@ -10,7 +10,7 @@ Framework **back-end** que auxilia o desenvolvimento de aplicações eficientes,
 
 #### NestJS
 
-- Usa JavaScript progressivo, é construído com e suporta totalmente **TypeScript** (ainda permite que os desenvolvedores codifiquem em JavaScript puro) e combina elementos de **OOP** (Programação Orientada a Objetos), **FP** (Programação Funcional) e **FRP** (Programação Reativa Funcional).
+- Usa JavaScript, é construído com e suporta totalmente **TypeScript** (ainda permite que os desenvolvedores codifiquem em JavaScript puro) e combina elementos de **OOP** (Programação Orientada a Objetos), **FP** (Programação Funcional) e **FRP** (Programação Reativa Funcional).
 
 ---
 
@@ -22,7 +22,7 @@ Framework **back-end** que auxilia o desenvolvimento de aplicações eficientes,
 
 #### NestJS Filosofia
 
-Nos últimos anos, graças ao Node.js, o JavaScript se tornou a **"línguagem padrão"** da web tanto para aplicativos front-end quanto back-end. Isso deu origem a projetos incríveis como Angular, React e Vue, que melhoram a produtividade do desenvolvedor e permitem a criação de aplicativos front-end rápidos, testáveis ​​e extensíveis.
+Nos últimos anos, graças ao **Node.js**, o **JavaScript** se tornou a **"línguagem padrão"** da web tanto para aplicativos front-end quanto back-end. Isso deu origem a projetos incríveis como **Angular**, **React** e **Vue**, que melhoram a produtividade do desenvolvedor e permitem a criação de aplicativos front-end rápidos, testáveis ​​e extensíveis.
 
 ---
 
@@ -50,9 +50,9 @@ npm i -g @nestjs/cli
 #### Iniciando o Projeto
 
 ```bash
-mkdir aula-app-nest
-cd aula-app-nest
-nest new server ou nest new servidor
+mkdir server ou servidor
+cd server ou servidor
+nest new server ou servidor
 ```
 
 ---
@@ -67,8 +67,7 @@ nest new server ou nest new servidor
 #### Acessando o projeto
 
 ```bash
-cd server // ou
-cd servidor
+cd server ou servidor
 code .
 ```
 
@@ -77,9 +76,7 @@ code .
 #### Executando o projeto
 
 ```bash
-npm start // ou
-yarn start // ou
-nest start
+npm start ou yarn start ou nest start
 ```
 
 ---
