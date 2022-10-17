@@ -108,6 +108,14 @@ nest g class usuario/usuario.entity
 
 ---
 
+#### Debugando o Projeto
+
+```bash
+npm start debug ou yarn start debug ou nest start debug
+```
+
+---
+
 #### Aula prática
 
 ---
