@@ -4,14 +4,37 @@
 
 #### NestJS
 
-Framework **back-end** que auxilia o desenvolvimento de aplicações eficientes, escaláveis e confiáveis em cima do **NodeJS**.
+Framework **back-end** que auxilia o desenvolvimento de aplicações eficientes, escaláveis e confiáveis em cima do **NodeJS** (servidor).
 
 ---
 
-#### O que é o NestJS?
+#### NestJS
 
-- O NestJS utiliza como padrão **TypeScript** e possui uma sintaxe parecida com **Angular**.
-- O NestJS também utiliza o **Express** "por baixo dos panos".
+- Usa JavaScript progressivo, é construído com e suporta totalmente **TypeScript** (ainda permite que os desenvolvedores codifiquem em JavaScript puro) e combina elementos de **OOP** (Programação Orientada a Objetos), **FP** (Programação Funcional) e **FRP** (Programação Reativa Funcional).
+
+---
+
+#### NestJS
+
+- Nest faz uso de estruturas robustas de servidor **HTTP** como o **Express** (o padrão) e, opcionalmente, pode ser configurado para usar o **Fastify** também!
+
+---
+
+#### NestJS Filosofia
+
+Nos últimos anos, graças ao Node.js, o JavaScript se tornou a **"línguagem padrão"** da web tanto para aplicativos front-end quanto back-end. Isso deu origem a projetos incríveis como Angular, React e Vue, que melhoram a produtividade do desenvolvedor e permitem a criação de aplicativos front-end rápidos, testáveis ​​e extensíveis.
+
+---
+
+#### NestJS Filosofia
+
+No entanto, embora existam muitas bibliotecas, auxiliares e ferramentas excelentes para Node (e JavaScript do lado do servidor), nenhuma delas resolve efetivamente o principal problema de **Arquitetura**.
+
+---
+
+#### NestJS Filosofia
+
+O Nest fornece uma arquitetura de aplicativo pronta para uso que permite que desenvolvedores e equipes criem aplicativos altamente testáveis, escaláveis, pouco acoplados e de fácil manutenção. A **arquitetura** é fortemente inspirada no **Angular**.
 
 ---
 
@@ -36,7 +59,7 @@ nest new server ou nest new servidor
 
 #### Instalação
 
-- Which package manager would you ❤️ to use? 
+- Which package manager would you ❤️ to use?
 - npm ou yarn
 
 ---
@@ -44,7 +67,7 @@ nest new server ou nest new servidor
 #### Acessando o projeto
 
 ```bash
-cd server // ou 
+cd server // ou
 cd servidor
 code .
 ```
@@ -54,8 +77,8 @@ code .
 #### Executando o projeto
 
 ```bash
-npm start // ou 
-yarn start // ou 
+npm start // ou
+yarn start // ou
 nest start
 ```
 
