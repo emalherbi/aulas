@@ -10,7 +10,7 @@ Framework **back-end** que auxilia o desenvolvimento de aplicações eficientes,
 
 #### NestJS
 
-- Usa JavaScript progressivo, é construído com e suporta totalmente **TypeScript** (ainda permite que os desenvolvedores codifiquem em JavaScript puro) e combina elementos de **OOP** (Programação Orientada a Objetos), **FP** (Programação Funcional) e **FRP** (Programação Reativa Funcional).
+- Usa JavaScript, é construído com e suporta totalmente **TypeScript** (ainda permite que os desenvolvedores codifiquem em JavaScript puro) e combina elementos de **OOP** (Programação Orientada a Objetos), **FP** (Programação Funcional) e **FRP** (Programação Reativa Funcional).
 
 ---
 
