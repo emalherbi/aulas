@@ -98,6 +98,15 @@
 
 | Sumário                                        |
 | ---------------------------------------------- |
+| [NodeJs](../programacao-mobile/aula-1-nodejs/) |
 | [NestJS](../programacao-mobile/aula-2-nestjs/) |
 | [JQuery](./aula-12-jquery/)                    |
 | [Fetch](./aula-12-fetch/)                      |
+
+---
+
+## Aula 13
+
+| Sumário                                          |
+| ------------------------------------------------ |
+| [Angular](../programacao-mobile/aula-4-angular/) |
